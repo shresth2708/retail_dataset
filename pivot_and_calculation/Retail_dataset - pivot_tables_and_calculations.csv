@@ -1,0 +1,53 @@
+Items,SUM of Total Spent,SUM of Quantity,COUNTA of Transaction ID,Avg Order Value
+Cake,10395,3462,1139,9.12642669
+Coffee,7062,3534,1165,6.061802575
+Cookie,3223,3228,1092,2.951465201
+Juice,10509,3505,1171,8.974380871
+Other,8507.5,2898,969,8.779669763
+Salad,17320,3468,1148,15.08710801
+Sandwich,13664,3424,1131,12.08134394
+Smoothie,13320,3330,1096,12.15328467
+Tea,4951.5,3292,1089,4.546831956
+Grand Total,88952,30141,10000,8.8952
+,,,,
+,,,,
+Items Category,COUNTA of Items Category,,,
+Bakery,22.31%,,,
+Drinks,45.21%,,,
+Food,32.47%,,,
+,,,,
+,,,,
+Payment Method,COUNTA of Payment Method,,,
+Cash,2258,,,
+Credit Card,2273,,,
+Digital Wallet,2291,,,
+UNKNOWN,3178,,,
+Grand Total,10000,,,
+,,,,
+,,,,
+txn_loc,COUNTA of txn_loc,COUNTA of txn_loc,,
+In-store,3017,30.17%,,
+Other,3961,39.61%,,
+Takeaway,3022,30.22%,,
+Grand Total,10000,100.00%,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Month_Name,Txn_Month,SUM of Total Spent,,
+NA,0,4165.5,,
+Jan,1,7242,,
+Feb,2,6633.5,,
+Mar,3,7214.5,,
+Apr,4,7168,,
+May,5,6941.5,,
+Jun,6,7350,,
+Jul,7,6877.5,,
+Aug,8,7077.5,,
+Sep,9,6846,,
+Oct,10,7302,,
+Nov,11,6957,,
+Dec,12,7177,,
+,Grand Total,88952,,
